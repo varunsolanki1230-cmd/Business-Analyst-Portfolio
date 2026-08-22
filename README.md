@@ -57,7 +57,7 @@ This project analyzes a fictional Indian e-commerce sales dataset using Microsof
 - HR Analytics Dashboard
 - Power BI Sales Dashboard
 - Customer Churn Analysis
-- ## Project 3 – E-Commerce Sales Analysis | SQL
+- ## Project 2 – E-Commerce Sales Analysis | SQL
 
 ### Objective
 
