@@ -57,3 +57,34 @@ This project analyzes a fictional Indian e-commerce sales dataset using Microsof
 - HR Analytics Dashboard
 - Power BI Sales Dashboard
 - Customer Churn Analysis
+- ## Project 3 – E-Commerce Sales Analysis | SQL
+
+### Objective
+
+Analyzed e-commerce sales data using MySQL to identify revenue trends, top-performing products, customer behavior, city performance, and payment preferences.
+
+### SQL Skills Used
+
+* SELECT, WHERE, GROUP BY, ORDER BY
+* SUM, COUNT, AVG, ROUND
+* HAVING, LIMIT, BETWEEN, IN, LIKE
+* DISTINCT and CASE WHEN
+* Subqueries and calculated fields
+
+### Key Insights
+
+* Total Revenue: **₹218,400**
+* Average Order Value: **₹21,840**
+* Highest Revenue Product: **Laptop – ₹115,000**
+* Best-Selling Product: **Phone – 3 units**
+* Highest Revenue City: **Delhi – ₹90,000**
+* Top Category: **Electronics – ₹198,000 (90.66%)**
+* Most Used Payment Method: **UPI – 4 orders**
+* Highest Rated Product: **Headphones – 4.8/5**
+
+### Business Insight
+
+Electronics generated over 90% of total revenue, making it the strongest category. Delhi was the highest-revenue city, while UPI was the most frequently used payment method.
+
+📁 SQL File: `ecommerce_sales_analysis.sql`
+
